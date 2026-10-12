@@ -19,3 +19,4 @@ Notes and usage details for mithril-isomorphic-example.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
